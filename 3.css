@@ -1,0 +1,12 @@
+html{
+    background-image: url(https://c.tenor.com/2efyFeDcIRQAAAAC/techies-с.gif);
+    background-repeat: no-repeat;
+    background-size: 2000px 1000px;
+}
+
+h1{
+    position: absolute;
+    left: 32%;
+    top: 35%;
+    font-size: 150px;
+}
